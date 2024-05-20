@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_text">#E3E3E3</color>
+    <color name="pager_backround">#90FFFFFF</color>
+    <color name="day_backround">#A3B9D1</color>
+    <color name="night_backrind">#000320</color>
+</resources>
